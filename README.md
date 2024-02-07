@@ -28,7 +28,9 @@ LOCK TABLES, EXECUTE, CREATE VIEW**
 
 
 TODO: pointed noted for superset:
+
 1: Admin-user permission-based view.
+
 2: super admin to have all permissions by default 
 	https://superset.apache.org/docs/security/
 
