@@ -27,7 +27,7 @@ LOCK TABLES, EXECUTE, CREATE VIEW**
     source script.sql;
 
 
-TODO: pointed noted for superset:
+## TODO: pointed noted for superset:
 
 1: Admin-user permission-based view.
 
