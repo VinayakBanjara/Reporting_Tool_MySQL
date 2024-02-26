@@ -26,6 +26,16 @@ LOCK TABLES, EXECUTE, CREATE VIEW**
     
     source script.sql;
 
+## setup apache superset
+1. Install Docker Desktop: https://docs.docker.com/desktop/install/windows-install/
+2. clone repository: git clone https://github.com/apache/superset.git
+3. Run following commands one by one:
+   	# git checkout 3.0.0
+	# set TAG=3.0.0
+	# docker compose -f docker-compose-non-dev.yml pull
+	# docker compose -f docker-compose-non-dev.yml up
+
+
 
 ## TODO: pointed noted for superset:
 
